@@ -4,7 +4,8 @@
   "description": "creating a static website in express using middleware",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "src/index.js"
   },
   "author": "Namit Kumar Singh",
   "license": "ISC",
